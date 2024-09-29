@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux-Bank/static/css/main.e535a2a2.css",
+    "main.js": "/Redux-Bank/static/js/main.77a3d10a.js",
+    "index.html": "/Redux-Bank/index.html",
+    "main.e535a2a2.css.map": "/Redux-Bank/static/css/main.e535a2a2.css.map",
+    "main.77a3d10a.js.map": "/Redux-Bank/static/js/main.77a3d10a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e535a2a2.css",
+    "static/js/main.77a3d10a.js"
+  ]
+}
